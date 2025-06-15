@@ -81,7 +81,7 @@ Veya
 
 ## YouTube Videosu
 
-Youtube videosuna [buradan]() ulaşabilirsiniz.
+Youtube videosuna [buradan](https://youtu.be/B5RhL-nIzao?si=obOgUw_G8yf8Z9w9) ulaşabilirsiniz.
 
 ---
 
