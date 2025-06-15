@@ -21,6 +21,12 @@ Siteye buradan ulaşabilirsiniz: http://95.130.171.20/~st23360859019/
 
 ---
 
+## YouTube Video Bağlantısı
+
+Youtube videosuna buradan ulaşabilirsiniz: https://youtu.be/B5RhL-nIzao?si=obOgUw_G8yf8Z9w9
+
+---
+
 ## Kullanım
 
 - `register.php` sayfasından kayıt olun.
@@ -68,12 +74,4 @@ Siteye buradan ulaşabilirsiniz: http://95.130.171.20/~st23360859019/
 ### İşlem Ekleme  
 ![İşlem Ekle](screenshots/islem_ekle.png)
 
----
 
-## YouTube Video Bağlantısı
-
-Youtube videosuna buradan ulaşabilirsiniz: https://youtu.be/B5RhL-nIzao?si=obOgUw_G8yf8Z9w9
-
----
-
-**Geliştirici:** Melike Rana YOZGATLI
