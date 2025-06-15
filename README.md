@@ -72,7 +72,7 @@ Siteye buradan ulaşabilirsiniz: http://95.130.171.20/~st23360859019/
 
 ## YouTube Video Bağlantısı
 
-Youtube videosuna [buradan](https://youtu.be/B5RhL-nIzao?si=obOgUw_G8yf8Z9w9) ulaşabilirsiniz.
+Youtube videosuna buradan ulaşabilirsiniz: https://youtu.be/B5RhL-nIzao?si=obOgUw_G8yf8Z9w9
 
 ---
 
