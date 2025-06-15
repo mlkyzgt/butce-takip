@@ -7,6 +7,7 @@ Basit ve kullanışlı bir kişisel bütçe takip sistemi. Gelirlerinizi ve gide
 ## Özellikler
 
 - Kullanıcı kaydı ve güvenli giriş
+- Kişiye özel kullanıcı adı
 - Gelir ve gider işlemlerini ekleme, düzenleme, silme
 - Toplam gelir, toplam gider ve bakiye özet görünümü
 - Son 5 işlemin listelenmesi
