@@ -14,19 +14,9 @@ Basit ve kullanışlı bir kişisel bütçe takip sistemi. Gelirlerinizi ve gide
 
 ---
 
-## Kurulum
+## Site Bağlantısı
 
 Siteye buradan ulaşabilirsiniz: http://95.130.171.20/~st23360859019/
-
-Veya
-
-1. **Veritabanı Oluşturma**
-
-   `database.sql` dosyasındaki SQL sorgularını kullanarak veritabanınızı ve tablolarınızı oluşturun.
-
-2. **Config Dosyası**
-
-   `config_sample.php` dosyasını `config.php` olarak kopyalayın ve veritabanı bilgilerinizi girin.
 
 ---
 
@@ -79,7 +69,7 @@ Veya
 
 ---
 
-## YouTube Videosu
+## YouTube Video Bağlantısı
 
 Youtube videosuna [buradan](https://youtu.be/B5RhL-nIzao?si=obOgUw_G8yf8Z9w9) ulaşabilirsiniz.
 
